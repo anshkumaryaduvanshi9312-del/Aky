@@ -1,0 +1,6 @@
+{
+  "name": "AetherPortfolio AI - Autonomous Monetization & Studio Engine",
+  "description": "High-earning AI-managed portfolio platform featuring autonomous task execution, client billing, corporate sponsorships, ad monetization, real-time analytics, and offline PWA resilience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
